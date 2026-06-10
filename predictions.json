@@ -1,0 +1,2690 @@
+{
+    "Spain": {
+        "prob_r32": 0.99997,
+        "prob_r16": 0.86712,
+        "prob_qf": 0.84008,
+        "prob_sf": 0.70818,
+        "prob_final": 0.58668,
+        "prob_winner": 0.34584
+    },
+    "Argentina": {
+        "prob_r32": 1.0,
+        "prob_r16": 0.90548,
+        "prob_qf": 0.8083,
+        "prob_sf": 0.59717,
+        "prob_final": 0.48468,
+        "prob_winner": 0.33201
+    },
+    "France": {
+        "prob_r32": 0.99962,
+        "prob_r16": 0.72374,
+        "prob_qf": 0.64742,
+        "prob_sf": 0.30527,
+        "prob_final": 0.21768,
+        "prob_winner": 0.11989
+    },
+    "Brazil": {
+        "prob_r32": 0.99956,
+        "prob_r16": 0.93043,
+        "prob_qf": 0.5623,
+        "prob_sf": 0.37158,
+        "prob_final": 0.12594,
+        "prob_winner": 0.04643
+    },
+    "England": {
+        "prob_r32": 0.99946,
+        "prob_r16": 0.88404,
+        "prob_qf": 0.73635,
+        "prob_sf": 0.41654,
+        "prob_final": 0.13081,
+        "prob_winner": 0.04619
+    },
+    "Colombia": {
+        "prob_r32": 0.99867,
+        "prob_r16": 0.83597,
+        "prob_qf": 0.4675,
+        "prob_sf": 0.3028,
+        "prob_final": 0.09637,
+        "prob_winner": 0.0317
+    },
+    "Portugal": {
+        "prob_r32": 0.99825,
+        "prob_r16": 0.81862,
+        "prob_qf": 0.45711,
+        "prob_sf": 0.29404,
+        "prob_final": 0.09441,
+        "prob_winner": 0.02906
+    },
+    "Netherlands": {
+        "prob_r32": 0.97243,
+        "prob_r16": 0.56854,
+        "prob_qf": 0.31779,
+        "prob_sf": 0.089,
+        "prob_final": 0.03833,
+        "prob_winner": 0.00821
+    },
+    "Morocco": {
+        "prob_r32": 0.99554,
+        "prob_r16": 0.83683,
+        "prob_qf": 0.37005,
+        "prob_sf": 0.19838,
+        "prob_final": 0.04404,
+        "prob_winner": 0.00809
+    },
+    "Germany": {
+        "prob_r32": 0.99795,
+        "prob_r16": 0.87512,
+        "prob_qf": 0.33207,
+        "prob_sf": 0.08504,
+        "prob_final": 0.03521,
+        "prob_winner": 0.00764
+    },
+    "Ecuador": {
+        "prob_r32": 0.99824,
+        "prob_r16": 0.87618,
+        "prob_qf": 0.31099,
+        "prob_sf": 0.08257,
+        "prob_final": 0.03367,
+        "prob_winner": 0.00717
+    },
+    "Croatia": {
+        "prob_r32": 0.99636,
+        "prob_r16": 0.69399,
+        "prob_qf": 0.45629,
+        "prob_sf": 0.16425,
+        "prob_final": 0.02806,
+        "prob_winner": 0.00397
+    },
+    "Uruguay": {
+        "prob_r32": 0.99709,
+        "prob_r16": 0.27352,
+        "prob_qf": 0.17925,
+        "prob_sf": 0.043,
+        "prob_final": 0.01687,
+        "prob_winner": 0.00359
+    },
+    "Senegal": {
+        "prob_r32": 0.96741,
+        "prob_r16": 0.24416,
+        "prob_qf": 0.14423,
+        "prob_sf": 0.05437,
+        "prob_final": 0.01873,
+        "prob_winner": 0.00341
+    },
+    "Japan": {
+        "prob_r32": 0.94824,
+        "prob_r16": 0.45933,
+        "prob_qf": 0.2234,
+        "prob_sf": 0.05342,
+        "prob_final": 0.01898,
+        "prob_winner": 0.00327
+    },
+    "Belgium": {
+        "prob_r32": 0.99911,
+        "prob_r16": 0.87883,
+        "prob_qf": 0.18512,
+        "prob_sf": 0.02976,
+        "prob_final": 0.00894,
+        "prob_winner": 0.00154
+    },
+    "United States": {
+        "prob_r32": 0.98028,
+        "prob_r16": 0.30204,
+        "prob_qf": 0.10934,
+        "prob_sf": 0.04737,
+        "prob_final": 0.00675,
+        "prob_winner": 0.00074
+    },
+    "Mexico": {
+        "prob_r32": 0.983,
+        "prob_r16": 0.66178,
+        "prob_qf": 0.23352,
+        "prob_sf": 0.06124,
+        "prob_final": 0.00587,
+        "prob_winner": 0.00068
+    },
+    "Switzerland": {
+        "prob_r32": 0.99649,
+        "prob_r16": 0.30519,
+        "prob_qf": 0.15962,
+        "prob_sf": 0.03847,
+        "prob_final": 0.00337,
+        "prob_winner": 0.00029
+    },
+    "Norway": {
+        "prob_r32": 0.75291,
+        "prob_r16": 0.17655,
+        "prob_qf": 0.03352,
+        "prob_sf": 0.00592,
+        "prob_final": 0.00069,
+        "prob_winner": 8e-05
+    },
+    "Sweden": {
+        "prob_r32": 0.6519,
+        "prob_r16": 0.19094,
+        "prob_qf": 0.04395,
+        "prob_sf": 0.00727,
+        "prob_final": 0.00085,
+        "prob_winner": 7e-05
+    },
+    "Iran": {
+        "prob_r32": 0.97892,
+        "prob_r16": 0.57757,
+        "prob_qf": 0.04081,
+        "prob_sf": 0.00504,
+        "prob_final": 0.00054,
+        "prob_winner": 5e-05
+    },
+    "South Korea": {
+        "prob_r32": 0.9006,
+        "prob_r16": 0.43315,
+        "prob_qf": 0.10602,
+        "prob_sf": 0.01629,
+        "prob_final": 0.00105,
+        "prob_winner": 4e-05
+    },
+    "Czech Republic": {
+        "prob_r32": 0.87411,
+        "prob_r16": 0.34096,
+        "prob_qf": 0.06425,
+        "prob_sf": 0.00686,
+        "prob_final": 0.00042,
+        "prob_winner": 2e-05
+    },
+    "Canada": {
+        "prob_r32": 0.9737,
+        "prob_r16": 0.14782,
+        "prob_qf": 0.04928,
+        "prob_sf": 0.00512,
+        "prob_final": 0.00023,
+        "prob_winner": 2e-05
+    },
+    "South Africa": {
+        "prob_r32": 0.06416,
+        "prob_r16": 0.00486,
+        "prob_qf": 8e-05,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Bosnia and Herzegovina": {
+        "prob_r32": 0.44875,
+        "prob_r16": 0.01809,
+        "prob_qf": 0.00036,
+        "prob_sf": 3e-05,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Qatar": {
+        "prob_r32": 0.18789,
+        "prob_r16": 0.0051,
+        "prob_qf": 6e-05,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Haiti": {
+        "prob_r32": 0.00174,
+        "prob_r16": 2e-05,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Scotland": {
+        "prob_r32": 0.79425,
+        "prob_r16": 0.16442,
+        "prob_qf": 0.01463,
+        "prob_sf": 0.00132,
+        "prob_final": 0.0001,
+        "prob_winner": 0.0
+    },
+    "Australia": {
+        "prob_r32": 0.71523,
+        "prob_r16": 0.07778,
+        "prob_qf": 0.00781,
+        "prob_sf": 0.0007,
+        "prob_final": 2e-05,
+        "prob_winner": 0.0
+    },
+    "Paraguay": {
+        "prob_r32": 0.23234,
+        "prob_r16": 0.01363,
+        "prob_qf": 0.00045,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Turkey": {
+        "prob_r32": 0.82341,
+        "prob_r16": 0.1253,
+        "prob_qf": 0.01864,
+        "prob_sf": 0.00308,
+        "prob_final": 0.00021,
+        "prob_winner": 0.0
+    },
+    "Cura\u00e7ao": {
+        "prob_r32": 0.00115,
+        "prob_r16": 1e-05,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Ivory Coast": {
+        "prob_r32": 0.85813,
+        "prob_r16": 0.18869,
+        "prob_qf": 0.02104,
+        "prob_sf": 0.00161,
+        "prob_final": 0.0001,
+        "prob_winner": 0.0
+    },
+    "Tunisia": {
+        "prob_r32": 0.16806,
+        "prob_r16": 0.02627,
+        "prob_qf": 0.00232,
+        "prob_sf": 0.00017,
+        "prob_final": 1e-05,
+        "prob_winner": 0.0
+    },
+    "Egypt": {
+        "prob_r32": 0.90281,
+        "prob_r16": 0.22542,
+        "prob_qf": 0.00917,
+        "prob_sf": 0.00039,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "New Zealand": {
+        "prob_r32": 0.002,
+        "prob_r16": 3e-05,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Cape Verde": {
+        "prob_r32": 0.13622,
+        "prob_r16": 0.00357,
+        "prob_qf": 1e-05,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Saudi Arabia": {
+        "prob_r32": 0.18511,
+        "prob_r16": 0.00695,
+        "prob_qf": 4e-05,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Iraq": {
+        "prob_r32": 0.02039,
+        "prob_r16": 0.00077,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Algeria": {
+        "prob_r32": 0.67003,
+        "prob_r16": 0.06252,
+        "prob_qf": 0.00347,
+        "prob_sf": 0.0001,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Austria": {
+        "prob_r32": 0.93533,
+        "prob_r16": 0.1935,
+        "prob_qf": 0.0413,
+        "prob_sf": 0.00357,
+        "prob_final": 0.00039,
+        "prob_winner": 0.0
+    },
+    "Jordan": {
+        "prob_r32": 0.03508,
+        "prob_r16": 0.00073,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "DR Congo": {
+        "prob_r32": 0.15772,
+        "prob_r16": 0.01124,
+        "prob_qf": 0.00019,
+        "prob_sf": 1e-05,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Uzbekistan": {
+        "prob_r32": 0.2549,
+        "prob_r16": 0.02735,
+        "prob_qf": 0.00077,
+        "prob_sf": 3e-05,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Ghana": {
+        "prob_r32": 0.10446,
+        "prob_r16": 0.00434,
+        "prob_qf": 5e-05,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Panama": {
+        "prob_r32": 0.34103,
+        "prob_r16": 0.03151,
+        "prob_qf": 0.00105,
+        "prob_sf": 4e-05,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Tibet": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Bolivia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "China PR": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Chad": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Venezuela": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "New Caledonia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Montserrat": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "County of Nice": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Provence": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "K\u00e1rp\u00e1talja": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Palau": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "East Turkestan": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Wales": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Sierra Leone": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Mozambique": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Zambia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "San Marino": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Bangladesh": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Vanuatu": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Bonaire": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Tamil Eelam": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Northern Ireland": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Silesia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Chagos Islands": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Liechtenstein": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Catalonia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Eswatini": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Dominica": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Basque Country": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Bhutan": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Ambazonia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Western Sahara": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Shetland": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Corsica": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Sint Maarten": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Niger": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Niue": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Chechnya": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "R\u00e9union": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "S\u00e3o Tom\u00e9 and Pr\u00edncipe": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Tonga": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Hitra": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Asturias": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Andorra": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Eritrea": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Slovakia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Cascadia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Ellan Vannin": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Tajikistan": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Northern Mariana Islands": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Timor-Leste": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Jersey": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Elba Island": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Gambia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Ukraine": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Guam": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "South Yemen": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Oman": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Israel": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Lithuania": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Angola": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Aymara": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Mauritius": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Albania": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Aruba": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Kosovo": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "North Vietnam": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Finland": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Papua New Guinea": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Sz\u00e9kely Land": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Saint Barth\u00e9lemy": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Honduras": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Guadeloupe": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Latvia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Djibouti": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Madagascar": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Dominican Republic": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Luhansk PR": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Central Spain": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "American Samoa": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Armenia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Western Isles": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Manchukuo": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Yemen DPR": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Saint Helena": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Ticino": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Saint Pierre and Miquelon": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Fiji": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Barbados": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Turks and Caicos Islands": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Burkina Faso": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Benin": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Sark": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Maule Sur": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "G\u0103g\u0103uzia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Romani people": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Somalia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Poland": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Puerto Rico": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "West Papua": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Cook Islands": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Congo": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Isle of Wight": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Mayotte": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Luxembourg": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Russia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Comoros": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Mauritania": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Thailand": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Madrid": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Myanmar": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Costa Rica": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Monaco": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Ry\u016bky\u016b": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Gozo": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Saint Kitts and Nevis": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Yemen": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Jamaica": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Northern Cyprus": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Republic of Ireland": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Nigeria": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Lebanon": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Galicia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Iraqi Kurdistan": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Panjab": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Occitania": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Vietnam": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "North Korea": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Liberia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Nicaragua": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Uganda": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Georgia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Kuwait": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Namibia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Taiwan": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Seborga": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Hungary": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Maldives": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Chile": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Saarland": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Tuvalu": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Zanzibar": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Gotland": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Matabeleland": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Suriname": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Brunei": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Alderney": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Lesotho": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "South Ossetia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Saint Lucia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Togo": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Cambodia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Isle of Man": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Greenland": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Bahamas": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Bahrain": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Chameria": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "India": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Zimbabwe": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Afghanistan": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Biafra": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Macau": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "United States Virgin Islands": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Parishes of Jersey": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Cameroon": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Guatemala": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Moldova": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Donetsk PR": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Arameans Suryoye": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Canary Islands": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Falkland Islands": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Cuba": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Indonesia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Felvid\u00e9k": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Faroe Islands": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Quebec": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Western Australia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Kazakhstan": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Saugeais": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Kurdistan": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Surrey": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Grenada": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Mapuche": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "South Sudan": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Samoa": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Guinea": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Tanzania": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Equatorial Guinea": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Botswana": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Sri Lanka": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Saare County": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Republic of St. Pauli": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Philippines": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Guernsey": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Laos": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Estonia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Darfur": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Sealand": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Malawi": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Anguilla": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Rhodes": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "North Macedonia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Bulgaria": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Yoruba Nation": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Trinidad and Tobago": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Romania": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "German DR": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Wallis Islands and Futuna": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Brittany": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Tahiti": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Peru": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Cilento": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Mali": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Palestine": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Somaliland": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Gibraltar": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "El Salvador": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Central African Republic": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Bermuda": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Cyprus": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Serbia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Gabon": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Kernow": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Kiribati": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Rwanda": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "British Virgin Islands": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "French Guiana": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Western Armenia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Hmong": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Kabylia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Kyrgyzstan": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Malta": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Azerbaijan": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Nepal": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Mongolia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Martinique": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Orkney": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "D\u00e9lvid\u00e9k": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Pakistan": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Syria": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Crimea": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Turkmenistan": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Padania": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Solomon Islands": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Montenegro": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Marshall Islands": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Menorca": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Artsakh": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Guinea-Bissau": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Iceland": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Libya": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Czechoslovakia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Yorkshire": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Antigua and Barbuda": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Vatican City": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "United Arab Emirates": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Micronesia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Ethiopia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Saint Vincent and the Grenadines": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Slovenia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "United Koreans in Japan": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Sudan": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Vietnam Republic": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Kenya": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Two Sicilies": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Belize": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Malaysia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Andalusia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Hong Kong": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Ynys M\u00f4n": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Yugoslavia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Seychelles": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "\u00c5land Islands": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Franconia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Singapore": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Italy": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Greece": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Belarus": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Guyana": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Denmark": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "S\u00e1pmi": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Abkhazia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Burundi": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Barawa": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Cayman Islands": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Raetia": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Saint Martin": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    },
+    "Fr\u00f8ya": {
+        "prob_r32": 0.0,
+        "prob_r16": 0.0,
+        "prob_qf": 0.0,
+        "prob_sf": 0.0,
+        "prob_final": 0.0,
+        "prob_winner": 0.0
+    }
+}
